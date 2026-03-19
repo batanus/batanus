@@ -1,5 +1,4 @@
 <div align="center">
-  <h1>Hi, I'm Dmitrii 👋</h1>
   <p><strong>Staff iOS Developer · Independent App Creator · Open Source Contributor</strong></p>
   <p>
     <a href="https://www.linkedin.com/in/dmitrii-medvedev-317778105/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
