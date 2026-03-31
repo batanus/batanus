@@ -1,5 +1,6 @@
 <div align="center">
-  <p><strong>Staff iOS Developer · Independent App Creator · Open Source Contributor</strong></p>
+  <p><strong>Independent App Creator · Open Source Contributor</strong></p>
+  <p><strong>ex. Staff iOS Developer at Crunchyroll</strong></p>
   <p>
     <a href="https://www.linkedin.com/in/dmitrii-medvedev-317778105/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:dima7711@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
